@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <math.h>
-/*exercise #1 
+
+/*exercise #1 */
 int main() {
 	int a, b, c, d, sum, sum1, sum2;
 	double sum3;
@@ -16,9 +17,10 @@ int main() {
 	printf("Square root of sum of 4 integers divided by their sum: %.2lf\n", sum3);
 	return(0);
 
-}*/
+}
 
-/*Exercise #2
+
+/*Exercise #2*/
 int main() {
 	int x1 = 100, x2 = 200, x3 = 400, x4 = 800;
 	double yard = 1.094, x1_y, x2_y, x3_y, x4_y;
@@ -37,9 +39,10 @@ int main() {
 	printf("%d      %.2lf    %lf\n", x3, x3_y, x3_m);
 	printf("%d      %.2lf    %lf\n", x4, x4_y, x4_m);
 return (0);
-}*/
+}
 
-/*Exercise #3
+
+/*Exercise #3*/
 int main() {
 	double pi = 3.14, Volume, r;
 	printf("Volume of a Sphere Calculator: \n");
@@ -48,9 +51,10 @@ int main() {
 	Volume = (4 / 3.0) * pi * (r*r*r);   
 	printf("The Volume of the Sphere is %.2lf.", Volume);
 	return (0);
-}*/
+}
 
-/*Exercise #4
+
+/*Exercise #4*/
 int main() {
 	int Triangle = 180, a, b, c;
 	printf("Triangle Angle Calculator\n");
@@ -61,9 +65,10 @@ int main() {
 	c = Triangle - (a + b);
 	printf("The third angle of the Triangle is %d Degree.", c);
 	return (0);
-}*/
+}
 
-/*Exercise #5
+
+/*Exercise #5*/
 int main() {
 	int x, y, z, f;
 	printf("What is the value of x: ");
@@ -77,7 +82,8 @@ int main() {
 	else 
 		printf("The Sum of the two integer is %d", z);
 	return (0);
-}*/
+}
+
 
 /*Exercise #6 */
 int main() {
