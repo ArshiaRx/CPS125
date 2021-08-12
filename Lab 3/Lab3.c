@@ -20,7 +20,7 @@ int main() {
 }
 
 
-/*Exercise #2*/
+/*Exercise #2 */
 int main() {
 	int x1 = 100, x2 = 200, x3 = 400, x4 = 800;
 	double yard = 1.094, x1_y, x2_y, x3_y, x4_y;
@@ -42,7 +42,7 @@ return (0);
 }
 
 
-/*Exercise #3*/
+/*Exercise #3 */
 int main() {
 	double pi = 3.14, Volume, r;
 	printf("Volume of a Sphere Calculator: \n");
@@ -54,7 +54,7 @@ int main() {
 }
 
 
-/*Exercise #4*/
+/*Exercise #4 */
 int main() {
 	int Triangle = 180, a, b, c;
 	printf("Triangle Angle Calculator\n");
@@ -68,7 +68,7 @@ int main() {
 }
 
 
-/*Exercise #5*/
+/*Exercise #5 */
 int main() {
 	int x, y, z, f;
 	printf("What is the value of x: ");
