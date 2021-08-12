@@ -1,7 +1,4 @@
-/* NAME:  Arshia Rahim - 500994106
-COURSE:   CPS125 - Section 4
-DUE DATE: 2021-02-02
-LAB #2 */
+/*LAB #2 */
 #include <stdio.h>
 /*Exercise #1
 int main(void) {
@@ -60,7 +57,7 @@ int main(){
 
 	printf("%.5lf", A2_circumference);
 	return (0);
-}*/
+}
 
 
 /*Homework Portion*/
