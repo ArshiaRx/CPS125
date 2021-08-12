@@ -1,22 +1,24 @@
-/*LAB #2 */
+/* LAB: 2 */
+
 #include <stdio.h>
-/*Exercise #1
+
+/*Exercise #1*/
 int main(void) {
 	printf("This\n is\n my\n first\n C\n program.\n");
 	return 0;
-}*/
+}
 
 
-/*Exercise #2
+/*Exercise #2*/
 int main(void) {
 	printf("X 0 X\n");
 	printf("X X 0\n");
 	printf("0 0 X\n");
 	return 0;
-}*/
+}
 
 
-/*Exercise #3
+/*Exercise #3*/
 int main(void) {
 	int a = 3, b = 4, e;
 	double c, d, f = 4;
@@ -24,10 +26,10 @@ int main(void) {
 	c = a / (f - b);
 	printf("The value of d is %.2f\n", d);
 	return (0);
-}*/
+}
 
 
-/*Exercise #4
+/*Exercise #4*/
 int main(){
 	double n;
 	printf("Enter a real Number: ");
@@ -38,10 +40,10 @@ int main(){
 	printf("n = %d\n", ((int) n/1000)*1000);
 	printf("n = %.1lf", n);
 	return 0;
-}*/
+}
 
 
-/*Exercise #5
+/*Exercise #5*/
 #include <math.h>
 
 int main(){
