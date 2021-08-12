@@ -1,4 +1,5 @@
 /* LAB #2 */
+
 #include <stdio.h>
 
 /*Exercise #1*/
