@@ -1,8 +1,7 @@
+/*Lab 4*/
 #include <stdio.h>
-/* Course: CPS125
-Lab4 - Section 4
-Name: Arshia Rahim*/
-/*Excersie #1 and #2:
+
+/*Excersie #1 and #2*/
 int main() {
 	int a1, a2, t1, t2, i, average;
 	char Grade;
@@ -72,9 +71,9 @@ int main() {
 		printf("The letter grade is: %c\n", Grade = 'F');
 
 	return (0);
-}*/
+}
 
-/*Exercise #3:
+/*Exercise #3:*/
 int main() {
 	char warship_class;
 
@@ -132,9 +131,9 @@ int main() {
 	else
 		printf("The Ship is unknown.");
 	return (0);
-}*/
+}
 
-/*Exercise #4: 
+/*Exercise #4:*/
 int main() {
 	float n;
 	printf("Richter scale number (n)\tCharacterization\n\n");
