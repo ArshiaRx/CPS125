@@ -42,7 +42,6 @@ int main(void)
 		x_2nd_arr[i] = 3 * x_arr[i];
 		printf("%0.2lf\t\t\t%0.2lf\n", x_arr[i], x_2nd_arr[i]);
 	}
-
 	printf("\nORIGINAL ARRAY\t\tNormalixed Array\n");
 	for (i = 0; i < n; i++)                                                 /*Keep printing the Original and Normalized array values until no more values are left*/
 	{
