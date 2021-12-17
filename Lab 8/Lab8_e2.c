@@ -1,5 +1,5 @@
 /*Arshia Rahim
-Lab#8 
+Lab#8
 Exercise 2 and 1*/
 #include<stdio.h>
 #include<stdlib.h>
