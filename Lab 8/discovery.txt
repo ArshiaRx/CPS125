@@ -1,0 +1,19 @@
+/*Arshia rahim
+Lab#8
+Discovery 
+2021/04/09
+*/
+Q1. explain why you need to send the sixe to a function that accepts a numerical array.
+Answer:
+
+We need to give the size of the array because the complier needs to allocate space in the memory which 
+is not possible without knowing the size. Compiler determines the size required for an array with the 
+help of the number of elements of an array and the size of the data type present in the array.	
+
+
+Q2. explain you need a '\0' at the end of a string.
+Answer:
+
+You need to end C strings with '\0' since this is how the library knows where the string ends without
+it, the program will be having a undefined behaviour.
+
