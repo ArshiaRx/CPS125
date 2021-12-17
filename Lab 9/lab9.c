@@ -28,7 +28,6 @@ int main(void) {
 	printf("The area of circular cross section is: %f\n", s.areacircle);
 	printf("The surface Area of the cylinder is: %f\n", s.areacylinder);
 	printf("The Volume of the cyliner is: %f\n", s.volumecylinder);
-
 	return 0;
 }
 */
