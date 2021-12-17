@@ -1,0 +1,7 @@
+/* Arshia Rahim
+Lab#9 (Last lab)
+Section: 4 */
+/*Exercise 4*/
+The output of porvided code is:
+ 
+2 1036 1034
