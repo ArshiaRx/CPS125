@@ -79,7 +79,6 @@ void get_units_conc(double* units_hour, double* units_ml)
     fflush(stdin);
 }
 
-
 /* function takes as input rate and concentration then returns as
 its value the result of dividing their product by MINUTE */
 double fig_drops_min(double ml_hour, double drops_ml)
