@@ -17,7 +17,6 @@ int f2(int y)
 	int Remainder;
 	Remainder = y % 10;
 	return (Remainder);
-
 }
 int f3(int* x_address)
 {
